@@ -1,0 +1,2 @@
+# Software-Engineering
+An advanced study of the process of creating large software systems with consideration on techniques of project planning and tracking, requirements specification, software documents, object-oriented techniques, and testing. Emphasis will be placed on software engineering project management (or process control) and practices that reduce software cost and increase reliability and modifiability.
